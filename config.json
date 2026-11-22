@@ -1,0 +1,9 @@
+{
+  "categories": ["Music & arts grants", "Poetry & writing", "Audio engineering jobs", "Data analytics jobs", "Artist residencies", "Fellowships & competitions"],
+  "keywords": ["music", "composer", "artist", "arts grant", "poetry", "poet", "writer", "literary", "audio engineer", "sound designer", "mixing", "mastering", "data analyst", "analytics", "residency", "fellowship", "competition", "creative"],
+  "rss_feeds": [],
+  "job_boards": [{"provider":"greenhouse","slug":""},{"provider":"lever","slug":""},{"provider":"ashby","slug":""}],
+  "grants_gov_keywords": ["arts", "music", "creative writing"],
+  "region_policy": "US + international including remote; eligibility must be verified",
+  "public_mode": false
+}
